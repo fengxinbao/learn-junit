@@ -23,6 +23,7 @@
 			<version>3.0-alpha-1</version>
 		</dependency>
 	</dependencies>
+
 	<build>
 		<finalName>learn-junit</finalName>
 		<plugins>
